@@ -1,0 +1,14 @@
+{
+  "name": "BotJS",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev":"node bot.js"
+  },
+  "dependencies": {
+    "ethers": "5.7.2",
+    "telegraf": "^4.12.2"
+  }
+}
